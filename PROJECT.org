@@ -1,11 +1,10 @@
-Making data and software discoverable to facilitate interoperability
-========
+#+TITLE: Building a dynamic, executable and discoverable network of interlinked software and data
 
-This project aims at developing infrastructure to support considerable
-challenges of modern data-driven science, the reliance on open digital
-information infrastructure using automation and standardisation as
-primary force to enable broader and more open scientific
-dissemination, impact and creativity.
+This project aims at developing infrastructure to support some major
+contemporary challenges of modern data-driven science, i.e. the
+reliance on open digital information infrastructure using automation
+and standardisation as primary force to enable broader and more open
+scientific dissemination, impact and creativity.
 
 Modern science relies on ever increasing quantities of data (some have
 coined it the data deluge) and on trustworthy and sustainable software
@@ -23,17 +22,40 @@ limited set of known of data sets, and hence limited to the original
 team or sub-community. Surprisingly, while each data/software
 information and development streams can't be conceived in isolation,
 and their true potential emerges from their interoperation, little
-effort exist to facilitate easy interactions. The ideal infrastructure
-would enable transparent integration of different data source (local
-or remote, public or private), data sets (transparent to file formats)
-through data APIs and software architectures (local or remote) through
-software APIs/pipelines. Other than re-use of data and software and
-potential for automation, the major potention is discoverability of
-data and software leading to new applications and use cases (from data
-and software perspectives) and contributing these back as novel
-data/software annotation.
+effort exist to facilitate streamlined interactions and
+discoverability. The ideal infrastructure would enable transparent
+integration of different data source (local or remote, public or
+private), data sets (transparent to file formats) through data APIs
+and software architectures (local or remote) through software
+APIs/pipelines. Other than re-use of data and software and potential
+for automation, the major potential is discoverability of data and
+software leading to new applications and use cases (from data and
+software perspectives) and contributing these back as novel, publicly
+available and data/software annotation and use cases.
 
-![overview](./Figures/overview_20150529_150535.jpg)
+
+#+CAPTION: Infrastucture overview
+[[./Figures/overview_20150529_150535.jpg]]
+
+Such a platform should enable 
+
+- data and software annotation and interoperation;
+- data and software software discoverability;
+- data and software reusability;
+- enhanced data and software disseminsation;
+- emergence of novel data and software use cases;
+
+for all members of the scientific community and public, irrespective
+of techinical IT skills, knowledge of data formats and data generation
+infrastucture, and data/software provenance. 
+
+
+The domain of high-throughput biology, and more specifically
+proteomics will be used as a use case to develope and illustrate the
+proposed infrastructure.
+
+
+** More notes
 
 Example illustrating the difficulty of cross talking between software
 and data domains: existence of multiple file formats, annotation and
@@ -46,12 +68,6 @@ that would serve the scientist communities with data- and
 software-as-a-service infrastructures that support transparent cross
 talk between data and software.
 
-- Data and software annotation and interoperation
-- Data and software discoverability
-- Data and software collaborations
-- reusability, uniformity to support community involvement
-
-*Build a dynamic and executable network of interlinked software and data.*
 
 
 Building up from 'bare-bone' open source software (some of which I
@@ -66,8 +82,14 @@ data (using proteomics and integration of proteomics and genomics as a
 use case)
 
 
-Use case: high-throughput biology.
-
-
 What about taverna? galaxi? AnnotationHub? We want to make use of
 this. 
+
+
+** References
+
+- [[https://peerj.com/articles/cs-1/][Achieving human and machine accessibility of cited data in scholarly publications]]
+- [[http://blogs.lse.ac.uk/impactofsocialsciences/2015/05/28/elseviers-non-sharing-policy-barbour/][Elsevier's new sharing policy is really a reversal of the rights of authors]]
+
+
+
