@@ -15,8 +15,8 @@ Cambridge Systems Biology Centre
 University of Cambridge
 Tennis Court Road
 Cambridge, CB2 1GA, UK
-lg390@cam.ac.uk
-+44 (0) 1223 760253
+Email: lg390@cam.ac.uk
+Tel: +44 (0) 1223 760253
 
 ### A summary of your career to date
 
@@ -26,8 +26,8 @@ R&D. In 2010, I moved to the University of Cambridge, where I
 concentrated on data and software infrastructure for quantitative and
 spatial proteomics, first as a Post-doctoral Research Associate and
 later as a Senior Research Associate. In recent years, I have been
-awarded an SSI fellowship and have become a Software Carpentry
-instructor. 
+awarded an Software Sustainability Institute fellowship and have
+become a Software Carpentry instructor.
 
 ### A brief explanation of why you feel the RSE Fellowship is appropriate for you
 
@@ -49,15 +49,15 @@ live and evolve in an highly dynamic and cross-disciplinary
 environment, resulting in risks to fade out very quickly and
 opportunities to cross initial domain boundaries. This project aims at
 developing infrastructure to support some major contemporary
-challenges of modern data-driven science, i.e. and set up an open
-digital information infrastructure using automation and
-standardisation as a primary force to enable broader and more open
-dissemination, application, impact and creativity of research software
-engineering outputs
+challenges of modern data-driven science, i.e. set up an open digital
+information infrastructure using automation and standardisation as a
+primary force to enable broader and more open dissemination,
+application, impact and creativity of research software engineering
+outputs
 
 Modern science relies on ever increasing quantities of data (becoming
-more plentiful, bigger, different and researchers implement ways to
-interrogate it - some have coined it the 'data deluge') and on
+more plentiful, bigger, different and researchers implement new ways
+to interrogate it - some have coined it the 'data deluge') and on
 trustworthy and sustainable software to analyse, understand and
 interpret them. Each of these pillars of modern scientific activities
 are generally developed and maintained independently. On one hand, a
@@ -89,7 +89,7 @@ classify features. In our specific question, the classification is
 aimed at inferring the spatial sub-cellular localisation of proteins
 using experimental data (primary data source) and gene ontology
 annotation data (auxiliary data source). Our algorithm was initially
-inspired from a leaves classification problem (using bio-metrical
+inspired from a leaves classification problem (using morphological
 measurement from fresh and dried specimens) and was improved and
 adapted for spatial proteomics use cases. We would like to apply it to
 another domain, genomics data being an obvious candidate; however,
@@ -99,8 +99,8 @@ rates of duplication.
 
 The transition from the first publication of the algorithm in the
 International Conference on Machine Learning and leaves morphology
-data to an functional implementation and application to 5 proteomics
-data sets initially relied on a fortuitous and fortunate
+data to a functional implementation and application to five diverse
+proteomics data sets initially relied on a fortuitous and fortunate
 discovery. What further transitions and improvements could be
 anticipated?  If the immediate transition are prohibitively slow or
 difficult, the dissemination, improvement and generalisation of the
