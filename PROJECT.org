@@ -67,6 +67,9 @@ dissemination, improvement and generalisation of the software is
 dramatically limited. Such transitions should be enabled in systematic
 ways.
 
+#+CAPTION: A simple software/data evolution example
+[[./Figures/data-algo-transitions.png]]
+
 *** Meta-analyses
 
 Testing software with more data results in more reliable
