@@ -22,12 +22,12 @@ Tel: +44 (0) 1223 760253
 
 After a PhD in Evolutionary Biology and complementary studies in
 Computer Science, I worked for 3 years in Industry with a focus on
-R&D. In 2010, I moved to the University of Cambridge, where I
-concentrated on data and software infrastructure for quantitative and
-spatial proteomics, first as a Post-doctoral Research Associate and
-later as a Senior Research Associate. In recent years, I have been
-awarded an Software Sustainability Institute fellowship and have
-become a Software Carpentry instructor.
+computational pipelines R&D. In 2010, I moved to the University of
+Cambridge, where I concentrated on data and software infrastructure
+for quantitative and spatial proteomics, first as a Post-doctoral
+Research Associate and later as a Senior Research Associate. In recent
+years, I have been awarded an Software Sustainability Institute
+fellowship and have become a Software Carpentry instructor.
 
 ### A brief explanation of why you feel the RSE Fellowship is appropriate for you
 
@@ -38,8 +38,9 @@ software, data and educational packages. The extend to which I can
 deliver research software is limited by the constraint academic
 setting and the limited opportunities for focused research software
 engineering practice that is required to tackle more substantial
-software projects. 
-
+software projects. The fellowship will give me a unique opportunity to
+tackle wide-ranging challenges in data-driven science and research
+software engineering.
 
 ### A brief summary of what you would hope to achieve from an RSE Fellowship
 
