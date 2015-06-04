@@ -69,6 +69,7 @@ ways.
 
 #+CAPTION: A simple software/data evolution example
 [[./Figures/data-algo-transitions.png]]
+[[./Figures/data-algo-transitions-2.png]]
 
 *** Meta-analyses
 
