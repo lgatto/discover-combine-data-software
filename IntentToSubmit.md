@@ -9,13 +9,14 @@
 
 ###  Name and contact details
 
-Laurent Gatto
-Computational Proteomics Unit
+Laurent Gatto  
+Computational Proteomics Unit  
 Cambridge Systems Biology Centre
-University of Cambridge
-Tennis Court Road
-Cambridge, CB2 1GA, UK
-Email: lg390@cam.ac.uk
+Department of Biochemistry  
+University of Cambridge  
+Tennis Court Road  
+Cambridge, CB2 1GA, UK  
+Email: lg390@cam.ac.uk  
 Tel: +44 (0) 1223 760253
 
 ### A summary of your career to date
