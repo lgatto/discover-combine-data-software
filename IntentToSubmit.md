@@ -53,7 +53,7 @@ challenges of modern data-driven science, i.e. set up an open digital
 information infrastructure using automation and standardisation as a
 primary force to enable broader and more open dissemination,
 application, impact and creativity of research software engineering
-outputs
+outputs.
 
 Modern science relies on ever increasing quantities of data (becoming
 more plentiful, bigger, different and researchers implement new ways
