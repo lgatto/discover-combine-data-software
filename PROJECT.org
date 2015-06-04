@@ -33,6 +33,50 @@ software leading to new applications and use cases (from data and
 software perspectives) and contributing these back as novel, publicly
 available and data/software annotation and use cases.
 
+The rational of this project is that to make data (and meta-data) more
+interesting, it should be complemented by a diverse set descriptive
+obtained by different software platoforms. Conversely, to make
+software more interesting to a diverse audience, it should be applied
+to a breath of datasets across various domains. 
+
+*** Example
+
+A recent project involved developing, implementing and applying a
+transfer learning algorithm that learns from different data sources to
+classify features. In our specific question, the classification is
+aimed at inferring the spatial sub-cellular localisation of proteins
+using experimental data (primary data source) and gene ontology
+annotation data (auxiliary data source) - you might remember me
+briefly presenting this at the last sLoLa meeting in Cambridge. The
+algorithm is inspired from a leaves classification problem (using
+fresh and dried specimens) and we we have adapted/improved the idea
+for spatial proteomics data. I would like to apply it to another
+domain, for example genomics data. How should I proceed? Look for
+something relevant in the literature, ask my colleagues, ... none of
+these is really effective and arguably substantially slows
+cross-fertilisation between domains and meta-analysis. The transition
+from the first publication of the algorithm in the International
+Conference on Machine Learning (ICML) and leaves data to our updated
+implementation (Biocondutor pRoloc software package) and application
+to 5 proteomics data sets relied on fortuitous and fortunate
+discovery. The next anticipated transition would be to apply the
+current implementation of our updated algorithm to another
+domain. What further transitions and improvements can be anticipated?
+If the immediate transition is prohibitively slow or difficult, the
+dissemination, improvement and generalisation of the software is
+dramatically limited. Such transitions should be enabled in systematic
+ways.
+
+*** Meta-analyses
+
+Testing software with more data results in more reliable
+software. Testing the software with diverse data results in more use
+cases and more generally applicable software. Exploring a data set
+with different (easily discoverable) software enable better
+understanding of the data.
+
+
+
 
 #+CAPTION: Infrastucture overview
 [[./Figures/overview_20150529_150535.jpg]]
@@ -53,7 +97,6 @@ infrastucture, and data/software provenance.
 The domain of high-throughput biology, and more specifically
 proteomics will be used as a use case to develope and illustrate the
 proposed infrastructure.
-
 
 ** More notes
 
@@ -85,11 +128,18 @@ use case)
 What about taverna? galaxi? AnnotationHub? We want to make use of
 this. 
 
+** Also, 
+
+- mining of academic repos, scientific literature, sofware repositories
+- publishing platforms to disseminate new software/data/analysis associations
+- support for citing and disseminating data/software/papers/meta-analysis
+- dissemination through social media
 
 ** References
 
 - [[https://peerj.com/articles/cs-1/][Achieving human and machine accessibility of cited data in scholarly publications]]
 - [[http://blogs.lse.ac.uk/impactofsocialsciences/2015/05/28/elseviers-non-sharing-policy-barbour/][Elsevier's new sharing policy is really a reversal of the rights of authors]]
-
+- [[http://datafairport.org/][Data FAIRport - Find, Access, Interoperate & Re-use Data]]
+- [[https://scicrunch.org/resources][Research Resources ID]]
 
 
