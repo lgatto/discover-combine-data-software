@@ -1,71 +1,73 @@
 #+TITLE: Building a dynamic, executable and discoverable network of interlinked software and data
 
-This project aims at developing infrastructure to support some major
-contemporary challenges of modern data-driven science, i.e. the
-reliance on open digital information infrastructure using automation
-and standardisation as primary force to enable broader and more open
-scientific dissemination, impact and creativity.
+Software is central in scientific research engineering. But more
+importantly than in other engineering disciplines, the RSE products
+live and evolve in an highly dynamic and cross-disciplinary
+environment, resulting in risks to fade out very quickly and
+opportunities to cross initial domain boundaries. This project aims at
+developing infrastructure to support some major contemporary
+challenges of modern data-driven science, i.e. and set up an open
+digital information infrastructure using automation and
+standardisation as primary force to enable broader and more open
+dissemination, application, impact and creativity of research software
+engineering outputs
 
-Modern science relies on ever increasing quantities of data (some have
-coined it the data deluge) and on trustworthy and sustainable software
-to analyse and interpret them. Each of these pillars of modern
-scientific activities are generally developed and maintained
-independently. On one hand, a typical data pipeline starts with a data
-producer submitting these annotated data to an official repository
-that, after some basic curation, passively serves it to the wider
-community. This flow is unidirectional and restricted to published (or
-soon to be published) data and, once part of the official repository,
-becomes inert (updates and further annotations are very rare) and,
-most often, dormant. On the other hand, the exposure of a research
-software is often limited by the application (or applicability) to a
-limited set of known of data sets, and hence limited to the original
-team or sub-community. Surprisingly, while each data/software
-information and development streams can't be conceived in isolation,
-and their true potential emerges from their interoperation, little
-effort exist to facilitate streamlined interactions and
-discoverability. The ideal infrastructure would enable transparent
-integration of different data source (local or remote, public or
-private), data sets (transparent to file formats) through data APIs
-and software architectures (local or remote) through software
-APIs/pipelines. Other than re-use of data and software and potential
-for automation, the major potential is discoverability of data and
-software leading to new applications and use cases (from data and
-software perspectives) and contributing these back as novel, publicly
-available and data/software annotation and use cases.
+Modern science relies on ever increasing quantities of data (becoming
+more plentiful, bigger, different and researchers implement ways to
+interrogate it - some have coined it the data deluge) and on
+trustworthy and sustainable software to analyse, understand and
+interpret them. Each of these pillars of modern scientific activities
+are generally developed and maintained independently. On one hand, a
+typical data pipeline starts with a data producer submitting these
+annotated data to an official repository that, after some basic
+curation, serves it to the wider community. This flow is
+unidirectional and restricted to published (or soon to be published)
+data and, once part of the official repository, becomes inert (updates
+and further annotations are very rare) and, most often, dormant. On
+the other hand, the exposure of a research software is often limited
+by the application (or applicability) to a reduced set of known data
+sets, and hence limited to the original team or
+sub-community. Surprisingly, while each data/software information and
+development streams can't be conceived in isolation, and their true
+potential emerges from their interoperation, little effort exist to
+facilitate streamlined interactions and discoverability. The ideal
+infrastructure would enable transparent integration of different data
+source (local or remote, public or private), data sets (transparent to
+file formats) through data APIs and software architectures (local or
+remote) through software APIs/pipelines. The novel potential, other
+than re-use of data and software and potential for automation, the
+novelty is discoverability of data and software leading to new
+applications and use cases (from data and software perspectives) and
+contributing these back as novel, publicly available data/software
+meta-analyses.
 
-The rational of this project is that to make data (and meta-data) more
-interesting, it should be complemented by a diverse set descriptive
-obtained by different software platoforms. Conversely, to make
-software more interesting to a diverse audience, it should be applied
-to a breath of datasets across various domains. 
-
-*** Example
 
 A recent project involved developing, implementing and applying a
 transfer learning algorithm that learns from different data sources to
 classify features. In our specific question, the classification is
 aimed at inferring the spatial sub-cellular localisation of proteins
 using experimental data (primary data source) and gene ontology
-annotation data (auxiliary data source) - you might remember me
-briefly presenting this at the last sLoLa meeting in Cambridge. The
-algorithm is inspired from a leaves classification problem (using
-fresh and dried specimens) and we we have adapted/improved the idea
-for spatial proteomics data. I would like to apply it to another
-domain, for example genomics data. How should I proceed? Look for
-something relevant in the literature, ask my colleagues, ... none of
-these is really effective and arguably substantially slows
-cross-fertilisation between domains and meta-analysis. The transition
-from the first publication of the algorithm in the International
-Conference on Machine Learning (ICML) and leaves data to our updated
-implementation (Biocondutor pRoloc software package) and application
-to 5 proteomics data sets relied on fortuitous and fortunate
-discovery. The next anticipated transition would be to apply the
-current implementation of our updated algorithm to another
-domain. What further transitions and improvements can be anticipated?
-If the immediate transition is prohibitively slow or difficult, the
-dissemination, improvement and generalisation of the software is
-dramatically limited. Such transitions should be enabled in systematic
-ways.
+annotation data (auxiliary data source). Our algorithm was initially
+inspired from a leaves classification problem (using bio-metrical
+measurement from fresh and dried specimens) and was improved and
+adapted for spatial proteomics use cases. We would like to apply it to
+another domain, genomics data being an obvious candidate. How should
+we proceed?  Look for something relevant in the literature, ask
+colleagues, ... none of these approaches are effective and
+substantially slow cross-fertilisation between domains and high rates
+of duplication. 
+
+The transition from the first publication of the algorithm in the
+International Conference on Machine Learning (ICML) and leaves
+biometry data to an updated implementation (Biocondutor pRoloc
+software package) and application to 5 proteomics data sets initially
+relied on a fortuitous and fortunate discovery. What further
+transitions and improvements can be anticipated?  If the immediate
+transition are prohibitively slow or difficult, the dissemination,
+improvement and generalisation of the software is dramatically
+limited. The project's goal is to offer systematic ways to enable such
+transitions.
+
 
 #+CAPTION: A simple software/data evolution example
 [[./Figures/data-algo-transitions.png]]
@@ -80,26 +82,31 @@ with different (easily discoverable) software enable better
 understanding of the data.
 
 
+The rational of this project is that to make data (and meta-data) more
+interesting, it should be complemented by a diverse set descriptive
+obtained by different software platforms. Conversely, to make
+software more interesting to a diverse audience, it should be applied
+to a breath of data sets across various domains. 
 
 
-#+CAPTION: Infrastucture overview
+#+CAPTION: Infrastructure overview
 [[./Figures/overview_20150529_150535.jpg]]
 
 Such a platform should enable 
 
 - data and software annotation and interoperation;
 - data and software software discoverability;
-- data and software reusability;
-- enhanced data and software disseminsation;
+- data and software re-usability;
+- enhanced data and software dissemination;
 - emergence of novel data and software use cases;
 
 for all members of the scientific community and public, irrespective
-of techinical IT skills, knowledge of data formats and data generation
-infrastucture, and data/software provenance. 
+of technical IT skills, knowledge of data formats and data generation
+infrastructure, and data/software provenance. 
 
 
 The domain of high-throughput biology, and more specifically
-proteomics will be used as a use case to develope and illustrate the
+proteomics will be used as a use case to develop and illustrate the
 proposed infrastructure.
 
 ** More notes
@@ -108,7 +115,7 @@ Example illustrating the difficulty of cross talking between software
 and data domains: existence of multiple file formats, annotation and
 data provenance, which considerably hinder a systematic exploitation
 of data for any or multiple software for expert users (i.e. requires
-then to design infrastruture 
+then to design infrastructure 
 
 The aim of this project is to design and develop an infrastructure
 that would serve the scientist communities with data- and
@@ -123,7 +130,7 @@ infrastructure, that would be adequate for collaborations with
 industry (I have some contacts) and/or commercialisation.
 
 
-In a nutshell (and open to discission), I would like to expand the
+In a nutshell (and open to discussion), I would like to expand the
 existing infrastructure for the analysis of high-throughput biology
 data (using proteomics and integration of proteomics and genomics as a
 use case)
@@ -134,7 +141,7 @@ this.
 
 ** Also, 
 
-- mining of academic repos, scientific literature, sofware repositories
+- mining of academic repos, scientific literature, software repositories
 - publishing platforms to disseminate new software/data/analysis associations
 - support for citing and disseminating data/software/papers/meta-analysis
 - dissemination through social media
