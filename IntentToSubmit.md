@@ -89,33 +89,31 @@ measurement from fresh and dried specimens) and was improved and
 adapted for spatial proteomics use cases. We would like to apply it to
 another domain, genomics data being an obvious candidate; however,
 manual exploration and reliance on personal contacts are not effective
-and substantially slow cross-fertilisation between domains and high
-rates of duplication.
-
-The transition from the first publication of the algorithm in the
-International Conference on Machine Learning and leaves morphology
-data to a functional implementation and application to five diverse
-proteomics data sets initially relied on a fortuitous and fortunate
-discovery. What further transitions and improvements could be
-anticipated?  If the immediate transition are prohibitively slow or
-difficult, the dissemination, improvement and generalisation of the
-software is dramatically limited. The project's goal is to offer
-systematic ways to enable such transitions. Concretely, the first
-major milestone of the project is a set of interconnected networks of
-data sets, software and publications, all spanning different
-disciplines, created from mining the relevant repositories. The
-relations modelled by these networks will be browseable and searchable
-through an online portal and programmatically accessible through
-specific APIs. Given specific properties of an existing node, or new,
-user-defined nodes, representing a software, data or publication,
-matching entities would be identified. The second major milestone aims
-at facilitating the application of the links identified above by
-enabling transparent integration of different data source (local or
-remote, public or private), data sets (transparent to file formats)
-through data APIs and software architectures (local or remote) through
-software APIs/pipelines. Milestone one enables systematic exploration
-of RSE entities and milestone two supports their automated and
-standardised meta-analysis. Each of these milestones will be
-complemented by dedicated open publication channels to publicise and
-disseminate the new relations and use cases uncovered in milestones
-one and two.
+and substantially slow cross-fertilisation between domains and result
+in high rates of duplication. The transition from the first
+publication of the algorithm in the International Conference on
+Machine Learning and leaves morphology data to a functional
+implementation and application to five diverse proteomics data sets
+initially relied on a fortuitous and fortunate discovery. What further
+transitions and improvements could be anticipated?  If the immediate
+transition are prohibitively slow or difficult, the dissemination,
+improvement and generalisation of the software is dramatically
+limited. The project's goal is to offer systematic ways to enable such
+transitions. Concretely, the first major milestone of the project is a
+set of interconnected networks of data sets, software and
+publications, all spanning different disciplines, created from mining
+the relevant repositories. The relations modelled by these networks
+will be browseable and searchable through an online portal and
+programmatically accessible through specific APIs. Given specific
+properties of an existing node, or new, user-defined nodes,
+representing a software, data or publication, matching entities would
+be identified. The second major milestone aims at facilitating the
+application of the links identified above by enabling transparent
+integration of different data source (local or remote, public or
+private), data sets (transparent to file formats) through data APIs
+and software architectures (local or remote) through software
+APIs/pipelines. Milestone one enables systematic exploration of RSE
+entities and milestone two supports their automated and standardised
+meta-analysis. Each of these milestones will be complemented by
+dedicated open communication channels to publicise and disseminate the
+new relations and use cases. 
