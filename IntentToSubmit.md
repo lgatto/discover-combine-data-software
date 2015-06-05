@@ -64,8 +64,8 @@ trustworthy and sustainable software to analyse, understand and
 interpret them. Each of these pillars of modern scientific activities
 are generally developed and maintained independently. On one hand, a
 typical data pipeline starts with a data producer submitting these
-annotated data to an official repository that, after some basic
-curation, serves it to the wider community. This flow is
+annotated artefacts to an official repository that, after some basic
+curation, serves them to the wider community. This flow is
 unidirectional and restricted to published (or soon to be published)
 data and, once part of the official repository, becomes inert (updates
 and further annotations are very rare) and, most often, dormant. On
@@ -75,15 +75,8 @@ sets, and hence limited to the original team or
 sub-community. Surprisingly, while each data/software information and
 development streams can't be conceived in isolation, and their true
 potential emerges from their interoperation, little efforts exist to
-facilitate streamlined interactions and discoverability. The ideal
-infrastructure would enable transparent integration of different data
-source (local or remote, public or private), data sets (transparent to
-file formats) through data APIs and software architectures (local or
-remote) through software APIs/pipelines. The novel potential, other
-than re-use of data and software and potential for automation, is
-discoverability of data and software leading to new applications and
-use cases (from data and software perspectives) and contributing these
-back as novel, publicly available data/software meta-analyses.
+facilitate streamlined interactions and discoverability and enable new
+data/software meta-analyses.
 
 A recent project involved developing, implementing and applying a
 transfer learning algorithm that learns from different data sources to
@@ -107,5 +100,22 @@ discovery. What further transitions and improvements could be
 anticipated?  If the immediate transition are prohibitively slow or
 difficult, the dissemination, improvement and generalisation of the
 software is dramatically limited. The project's goal is to offer
-systematic ways to enable such transitions.
-
+systematic ways to enable such transitions. Concretely, the first
+major milestone of the project is a set of interconnected networks of
+data sets, software and publications, all spanning different
+disciplines, created from mining the relevant repositories. The
+relations modelled by these networks will be browseable and searchable
+through an online portal and programmatically accessible through
+specific APIs. Given specific properties of an existing node, or new,
+user-defined nodes, representing a software, data or publication,
+matching entities would be identified. The second major milestone aims
+at facilitating the application of the links identified above by
+enabling transparent integration of different data source (local or
+remote, public or private), data sets (transparent to file formats)
+through data APIs and software architectures (local or remote) through
+software APIs/pipelines. Milestone one enables systematic exploration
+of RSE entities and milestone two supports their automated and
+standardised meta-analysis. Each of these milestones will be
+complemented by dedicated open publication channels to publicise and
+disseminate the new relations and use cases uncovered in milestones
+one and two.
