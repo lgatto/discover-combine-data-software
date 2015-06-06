@@ -21,7 +21,7 @@ Tel: +44 (0) 1223 760253
 
 ### A summary of your career to date
 
-After a PhD in Evolutionary Biology and complementary studies in
+After a PhD in Evolutionary Genetics and complementary studies in
 Computer Science, I worked for 3 years in Industry with a focus on
 computational pipelines R&D. In 2010, I moved to the University of
 Cambridge, where I concentrated on data and software infrastructure
@@ -40,8 +40,10 @@ deliver research software is limited by the constraint academic
 setting and the limited opportunities for focused research software
 engineering practice that is required to tackle more substantial
 software projects. The fellowship will give me a unique opportunity to
-tackle wide-ranging challenges in data-driven science and research
-software engineering.
+tackle wide-ranging cross-disciplinary challenges in data-driven
+science and research software engineering, such as dissemination,
+discoverability and novel uses of software and hence promoting
+collaborations and maximising impact of RSEs.
 
 ### A brief summary of what you would hope to achieve from an RSE Fellowship
 
@@ -102,13 +104,13 @@ limited. The project's goal is to offer systematic ways to enable such
 transitions. Concretely, the first major milestone of the project is a
 set of interconnected networks of data sets, software and
 publications, all spanning different disciplines, created from mining
-the relevant repositories. The relations modelled by these networks
-will be browseable and searchable through an online portal and
+relevant repositories. The relations modelled by these networks will
+be browseable and searchable through an online portal and
 programmatically accessible through specific APIs. Given specific
 properties of an existing node, or new, user-defined nodes,
-representing a software, data or publication, matching entities would
-be identified. The second major milestone aims at facilitating the
-application of the links identified above by enabling transparent
+representing a software, data or publication, matching entities can
+then be identified. The second major milestone aims at facilitating
+the application of the links identified above by enabling transparent
 integration of different data source (local or remote, public or
 private), data sets (transparent to file formats) through data APIs
 and software architectures (local or remote) through software
@@ -116,4 +118,4 @@ APIs/pipelines. Milestone one enables systematic exploration of RSE
 entities and milestone two supports their automated and standardised
 meta-analysis. Each of these milestones will be complemented by
 dedicated open communication channels to publicise and disseminate the
-new relations and use cases. 
+new relations and use cases.
