@@ -7,82 +7,61 @@ Structural and Molecular Biology Department.
 
 ## 2 side CV
 
-## 1 side with suppl info with brief details of
+## Outline of the aims and activities of the fellowship
 
-### Outline of the aims and activities of the fellowship
+There are a wide range of excellent outputs related to RSE at large:
+software, algorithms and data sets of great scientific value. These
+are however too often produced, developed and exploited in isolation,
+limiting their dissemination and full potential across
+disciplines. The aim of the project is to enable individual
+experimental, computational scientists and RSEs to broaden up the
+relevance of their research outputs to different fields of
+applications. The project centres around the following activities: (1)
+data collection of relevant resources across scientific disciplines;
+(2) data mining and modelling to effectively inform users of most
+relevant interlinked data, software and publication records; (3)
+efforts in standardisation and automation, to facilitate more rigorous
+and systematic meta-analysis; and (4) the project will foster
+scientific and RSE community involvement to assure that most relevant
+resources and results are served for the communities.
 
-### Justification of the choice of host department and fit to UCL's wider initiatives in RSE
+## Justification of the choice of host department and fit to UCL's wider initiatives in RSE
 
-### Importance of fellowship in terms of science and engineering research enabled, including contributions to EPSRC's priorities
+The UCL is at the forefront of research software engineering,
+recognising the unique set of skills and experience stemming from
+computational sciences and software engineer. The Research IT Services
+and the Department of Computer Science constitute the ideal
+environment for such as applied projects, that aims at making best use
+of existing data sources and infrastructure skills to produce a usable
+and useful service to the global RSE and research communities. UCL's
+efforts in new technologies and analytics as applied to scholarly
+content, data and software in the frame of the Big Data Institute are
+particularly relevant too. This combination of departments at the UCL
+is the ideal environment for my professional development to reinforce
+my experience is research software engineering and improve my skills
+in large scale infrastructure serving the science community.
 
-> Data analysis software is equally as important, particularly with the
-> recognition of datasets being research outputs in their own right.
-> 
-> E-Infrastructure refers to a combination and interworking of
-> digitally-based technology (hardware and *software*), resources (*data*,
-> services, *digital libraries*), *communications* (protocols, access rights
-> and networks), and the people and organisational structures needed to
-> support modern, internationally leading collaborative research be it
-> in the arts and humanities or the sciences.
-> 
-> Over the last five years EPSRC has invested approximately £9 million
-> per annum in software. This has covered the spectrum from new
-> algorithm development at the leading edge of research...
+## Importance of fellowship in terms of science and engineering research enabled, including contributions to EPSRC's priorities
 
-Maximise investment by promoting discoverability, re-use and new
-application of existing software.
+The EPSRC recognises the importance of software and data sets as
+primary research outputs in their own rights. It has invested millions
+of pounds per year in software over the last 5 years to promote RSE
+activities. The project offers a way to maximise these investment by
+promoting discoverability, re-use and new application of existing
+software. 
 
-Strategic goals:
+In particular, the project enables and promotes collaboration by
+identifying relevant and reusable data and software, both for
+software/data users and producers, in particular with respect to more
+effective dissemination and collaboration across communities. Software
+and data re-use, and in particular across disciplines, is a major
+hallmark of success and impact. The action of the project lies at the
+interface of experimental and computational research outputs and can
+support researchers to cross these fields and thus promote
+opportunities and innovation in software provision and maximise the
+academic and economic impact of RSE outputs. By means of software
+re-use promotion and discovery, the project will promote open
+dissemination of sustainable and trustworthy software and facilitate
+the development of communities of users and developers across
+disciplines.
 
-#### Shaping Capability
-
-- *Enabling and promoting collaboration* by identifying relevant and
-reusable data and software, in particular with respect to /more
-effective collaboration across communities and change 'roll-your-own'
-culture/.
-
-
-#### Developing Leaders and Skilled People
-
-> Build careers at the interface, by supporting researchers to work in
-> different research environments (e.g. maths, computer sciences and
-> application areas) through discipline hopping type activities and
-> networking.
-
-- Promote collaboration and software re-use accross disciplines -
-  experimental sciences heavily rely on computational methods;
-  numerous breakthrough originated from inputs (novel, but often well
-  established) from mathematics, statistics and computer science.
-
-> Develop measures and success features that Universities and Research
-> Councils can use to recognise innovation in software provision.
-
-- Re-use, and in particluar across disciplines, is a major halmark of
-  success and impact.
-
-#### Delivering Impact
-
-> Delivering Impact: Maximising the academic, societal and economic
-> impact of current and future investments in software
-
-> *Support innovation* in software through the short, medium and
-> long-term. Providing opportunities for innovation wherever it might
-> occur.
-
-
-#### Ensuring Trust
-
-Quality and suistainability of code
-
-> Develop peer review models that allow the separate assessment of the
-> science case vs the software development component.
-
-> Encourage culture of software publishing and peer review scrutiny,
-> with acknowledgement of developer contribution.
-
-> Incentivise researchers to share software outputs through OpenSource.
-
-> Build communities of developers and users around software codes.
-
-
-Collaborations with industry

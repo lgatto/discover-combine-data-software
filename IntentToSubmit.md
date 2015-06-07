@@ -102,20 +102,37 @@ transition are prohibitively slow or difficult, the dissemination,
 improvement and generalisation of the software is dramatically
 limited. The project's goal is to offer systematic ways to enable such
 transitions. Concretely, the first major milestone of the project is a
-set of interconnected networks of data sets, software and
-publications, all spanning different disciplines, created from mining
-relevant repositories. The relations modelled by these networks will
-be browseable and searchable through an online portal and
-programmatically accessible through specific APIs. Given specific
-properties of an existing node, or new, user-defined nodes,
-representing a software, data or publication, matching entities can
-then be identified. The second major milestone aims at facilitating
-the application of the links identified above by enabling transparent
-integration of different data source (local or remote, public or
-private), data sets (transparent to file formats) through data APIs
-and software architectures (local or remote) through software
-APIs/pipelines. Milestone one enables systematic exploration of RSE
-entities and milestone two supports their automated and standardised
-meta-analysis. Each of these milestones will be complemented by
-dedicated open communication channels to publicise and disseminate the
-new relations and use cases.
+set of interconnected databases of data, software and publications,
+all spanning different disciplines, created from mining relevant
+repositories. The relations between records within and between these
+databases will be browseable and searchable through an online portal
+and programmatically accessible through specific APIs. Given specific
+properties of existing records, or new, user-defined properties
+describing software, data or publications, new matches can then be
+identified. Properties related to quality and suistainability of
+software and data (metadata, documentation, testing, ...) will be used
+to favour visibility. The second major milestone aims at facilitating
+the application of the relations identified above by enabling
+transparent integration of different data source (local or remote,
+public or private), data sets (transparent to file formats) through
+data APIs and software architectures (local or remote) through
+software APIs/pipelines. Milestone one enables systematic exploration
+of RSE entities and milestone two supports their automated and
+standardised meta-analysis. Each of these deliverables will be
+complemented by dedicated open communication channels to openly
+publicise and disseminate the new software/data relations and use
+cases.
+
+
+
+- data collection, by mining existing data, software, conference and
+  publication resources
+- develop the infrastructure that will support the identification of
+  related RSE products across these resources; known
+  cross-disciplinary outputs will be used to optimise and assess the
+  relevance the queries results
+- develop and disseminate public interfaces to the service
+
+- the enable automation and a well defined subset of , use existing
+  pipeline execution environments
+
