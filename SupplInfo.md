@@ -1,13 +1,11 @@
 
-## Intent to Submit + host department
+### Host departments
 
-Host departments: Prof. David Jones, Computer Science and Dr. James
-Hetherington, RITS. Also support from Prof. Christine Orengo,
-Structural and Molecular Biology Department.
+Prof. David Jones, Computer Science and Dr. James Hetherington, RITS.  
+Also support from Prof. Christine Orengo, Structural and Molecular
+Biology Department.
 
-## 2 side CV
-
-## Outline of the aims and activities of the fellowship
+### Outline of the aims and activities of the fellowship
 
 There are a wide range of excellent outputs related to RSE at large:
 software, algorithms and data sets of great scientific value. These
@@ -25,7 +23,7 @@ and systematic meta-analysis; and (4) the project will foster
 scientific and RSE community involvement to assure that most relevant
 resources and results are served for the communities.
 
-## Justification of the choice of host department and fit to UCL's wider initiatives in RSE
+### Justification of the choice of host department and fit to UCL's wider initiatives in RSE
 
 The UCL is at the forefront of research software engineering,
 recognising the unique set of skills and experience stemming from
@@ -41,7 +39,7 @@ is the ideal environment for my professional development to reinforce
 my experience is research software engineering and improve my skills
 in large scale infrastructure serving the science community.
 
-## Importance of fellowship in terms of science and engineering research enabled, including contributions to EPSRC's priorities
+### Importance of fellowship in terms of science and engineering research enabled, including contributions to EPSRC's priorities
 
 The EPSRC recognises the importance of software and data sets as
 primary research outputs in their own rights. It has invested millions
