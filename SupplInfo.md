@@ -1,3 +1,4 @@
+\pagenumbering{gobble}
 
 ### Host departments
 
@@ -44,22 +45,21 @@ in large scale infrastructure serving the science community.
 The EPSRC recognises the importance of software and data sets as
 primary research outputs in their own rights. It has invested millions
 of pounds per year in software over the last 5 years to promote RSE
-activities. The project offers a way to maximise these investment by
+activities. The project offers a way to maximise these investments by
 promoting discoverability, re-use and new application of existing
-software. 
+software.
 
-In particular, the project enables and promotes collaboration by
-identifying relevant and reusable data and software, both for
-software/data users and producers, in particular with respect to more
-effective dissemination and collaboration across communities. Software
-and data re-use, and in particular across disciplines, is a major
-hallmark of success and impact. The action of the project lies at the
-interface of experimental and computational research outputs and can
-support researchers to cross these fields and thus promote
-opportunities and innovation in software provision and maximise the
-academic and economic impact of RSE outputs. By means of software
-re-use promotion and discovery, the project will promote open
-dissemination of sustainable and trustworthy software and facilitate
-the development of communities of users and developers across
-disciplines.
+The project enables and promotes collaboration by identifying relevant
+and reusable data and software, both for software/data users and
+producers, in particular with respect to more effective dissemination
+and collaboration across communities. Software and data re-use, and in
+particular across disciplines, is a major hallmark of success and
+impact. The action of the project lies at the interface of
+experimental and computational research outputs and can support
+researchers to cross these fields and thus promote opportunities and
+innovation in software provision and maximise the academic and
+economic impact of RSE outputs. By means of software re-use promotion
+and discovery, the project will promote open dissemination of
+sustainable and trustworthy software and facilitate the development of
+communities of users and developers across disciplines.
 

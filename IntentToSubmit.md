@@ -20,10 +20,12 @@ Since the completion of my PhD, the emphasis of my work has focused on
 delivering software solutions to tackle specific data-driven
 scientific questions, that have culminated in several state-of-the-art
 software, data and educational packages. The extend to which I can
-deliver research software is contstraint by the limited opportunities
-for research software engineering in academia. The fellowship will
-give me a unique opportunity to pursue my inter-disciplinary career
-focusing on research software engineering.
+deliver research software is constraint by the limited opportunities
+for research software engineering in academia. The fellowship would be
+jointly hosted by the Department of Computer Science and the Research
+IT Services at the UCL. It will give me a unique opportunity to pursue
+my inter-disciplinary career focusing on research software
+engineering.
 
 #### Project summary
 
@@ -48,7 +50,7 @@ A recent project involved developing, implementing and applying a
 transfer learning algorithm that learns from different data sources to
 classify features. In our specific question, the classification is
 aimed at inferring the spatial sub-cellular localisation of proteins
-using experimental data and third-party gene ontology data. Our
+using experimental data and third-party gene ontology annotation. Our
 algorithm was initially inspired from a leaves image classification
 problem and was improved and adapted for our use cases. We would like
 to apply it to another domain, genomics data being an obvious
@@ -81,7 +83,7 @@ identified above by enabling transparent integration of different data
 source (local or remote, public or private), data sets (transparent to
 file formats) through data APIs and software architectures (local or
 remote) through software APIs/pipelines. Milestone one enables
-systematic exploration of RSE entities and milestone two supports
+systematic exploration of RSE outputs and milestone two supports
 their automated and standardised meta-analysis. Each of these
 deliverables will be complemented by dedicated open communication
 channels to openly publicise and disseminate the new software/data
