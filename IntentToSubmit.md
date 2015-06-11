@@ -27,7 +27,7 @@ IT Services at the UCL. It will give me a unique opportunity to pursue
 my inter-disciplinary career focusing on research software
 engineering.
 
-#### Project summary
+#### Programme summary
 
 Modern science relies on ever increasing quantities of data (some have
 coined it a 'data deluge') and on trustworthy and sustainable software
