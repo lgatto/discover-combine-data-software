@@ -3,8 +3,7 @@
 > Laurent Gatto  
 > Department of Biochemistry, University of Cambridge  
 > Tennis Court Road, Cambridge, CB2 1GA, UK  
-> Email: [lg390@cam.ac.uk](lg390@cam.ac.uk)  
-> Tel: +44 (0) 1223 760253  
+> Email: [lg390@cam.ac.uk](lg390@cam.ac.uk)   --  Tel: +44 (0) 1223 760253  
 
 After a PhD in Evolutionary Genetics at the Free University of
 Brussels, and complementary studies in Computer Science at the
@@ -16,16 +15,20 @@ Associate and later as a Senior Research Associate. In 2014, I was
 awarded an  Sustainability Institute fellowship and recently
 have become a Software Carpentry instructor.
 
+##### Fellowship
+
 Since the completion of my PhD, the emphasis of my work has focused on
 delivering software solutions to tackle specific data-driven
 scientific questions, that have culminated in several state-of-the-art
 software, data and educational packages. The extend to which I can
-deliver research software is constraint by the limited opportunities
-for research software engineering in academia. The fellowship would be
-jointly hosted by the Department of Computer Science and the Research
-IT Services at the UCL. It will give me a unique opportunity to pursue
-my inter-disciplinary career focusing on research software
-engineering.
+deliver and promote research software is constrained by the limited
+opportunities for research software engineering in academia. This
+fellowship represents an ideal avenue to support my independent
+establishment by reinforcing my RSE activities as an independent EPSRC
+fellow.
+
+The fellowship would be jointly hosted by the Department of Computer
+Science and the Research IT Services at the UCL.
 
 #### Programme summary
 
@@ -62,10 +65,10 @@ functional implementation and application in spatial proteomics
 initially relied on a fortuitous discovery. What further transitions
 and improvements could be anticipated?  If these are prohibitively
 slow or difficult, the dissemination, improvement and generalisation
-of the software is dramatically limited. The project's goal is to
-offer systematic ways to enable such transitions.
+of the software is dramatically limited. The fellowship programme's
+goal is to offer systematic ways to enable such transitions.
 
-Concretely, the first major milestone of the project is a set of
+Concretely, the first major milestone of the programme is a set of
 interconnected databases of experimental data, software and
 publications, all spanning different disciplines, created from mining
 relevant repositories. The relations between records within and
