@@ -89,3 +89,8 @@ this.
 
 - *rOpenSci* for data, pubs full text repos
   [[https://www.youtube.com/watch?t=104&v=xi_njsuUxbA][Reproducible Open Science with R]]
+
+- dat, rdat
+- http://www.researchobject.org/
+
+- ContentMine
