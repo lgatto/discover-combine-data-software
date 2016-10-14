@@ -3,8 +3,8 @@
 See [[file:IntentToSubmit.md][Intent to submit]]
 
 #+caption: a simple software/data evolution example
-[[./figures/data-algo-transitions.png]]
-[[./figures/data-algo-transitions-2.png]]
+[[./Figures/data-algo-transitions.png]]
+[[./Figures/data-algo-transitions-2.png]]
 
 *** Meta-analyses
 
